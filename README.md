@@ -2,7 +2,7 @@
 
 🗣️`GIMANA CARA RECODE NYA 🤓`
 
-bego lu ajg, nih tutornya
+bego lu ajg, nih tutornyaa
 
 - fork repo (kasih star ya kontol)
 - deploy ke vercel langsung
