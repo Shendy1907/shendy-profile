@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Prohttps://nyimpen.vercel.app/component/logoku.pngfile Picture" className="profile-pic" />
+          <img src="https://files.catbox.moe/giztkh.jpg" alt="Prohttps://files.catbox.moe/giztkh.jpgfile Picture" className="profile-pic" />
           <h1 className="nama">shendy</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Jawa Tengah, Kebumen
