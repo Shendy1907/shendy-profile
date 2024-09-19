@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://files.catbox.moe/giztkh.jpg" alt="Prohttps://files.catbox.moe/giztkh.jpgfile Picture" className="profile-pic" />
+          <img src="https://files.catbox.moe/qul07o.jpg" alt="Prohttps://files.catbox.moe/qul07o.jpgfile Picture" className="profile-pic" />
           <h1 className="nama">shendy</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Jawa Tengah, Kebumen
