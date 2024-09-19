@@ -58,7 +58,7 @@ export default function Home() {
           <a href="https://instagram.com/shendyztp" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://tiktok.com/@shendy" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://www.tiktok.com/@shendy.ztp?_t=8pqLscN3VWz&_r=1" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-tiktok"></i>
           </a>
         </div>
