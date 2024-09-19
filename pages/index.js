@@ -40,7 +40,7 @@ export default function Home() {
             )}
             <iframe
               src="https://open.spotify.com/embed/playlist/7bLo50ZuZS1RXENp1STaRw"
-              frameBorder="10"
+              frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
               style={{ display: loading ? 'none' : 'block' }}
