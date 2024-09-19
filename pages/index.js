@@ -40,7 +40,7 @@ export default function Home() {
             )}
             <iframe
               src="https://open.spotify.com/embed/playlist/7bLo50ZuZS1RXENp1STaRw"
-              frameBorder="0"
+              frameBorder="10"
               allowTransparency="true"
               allow="encrypted-media"
               style={{ display: loading ? 'none' : 'block' }}
@@ -49,7 +49,7 @@ export default function Home() {
         </section>
 
         <div className="social-icons">
-          <a href="https://github.com/Shrndy1907" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://github.com/Shendy1907" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
           <a href="https://wa.me/62858709665804?text=haloo bng" target="_blank" className="social-link" rel="noopener noreferrer">
