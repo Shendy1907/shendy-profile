@@ -27,7 +27,7 @@ export default function Home() {
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Jawa Tengah, Kebumen
           </p>
-          <p className="bio">”destroyer.”</p>
+          <p className="bio">”apa pulaa 🗿”</p>
         </header>
 
         <section className="spotify-section">
@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             )}
             <iframe
-              src="https://open.spotify.com/embed/playlist/6e5psrTK5oyi4xFRCk4MRx"
+              src="https://open.spotify.com/embed/playlist/7bLo50ZuZS1RXENp1STaRw"
               frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
